@@ -1,0 +1,84 @@
+[2026-03-17T07:59:20.385Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a0725ca0asm18942324b3a.17 - gsmtp
+[2026-03-17T07:59:22.016Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b062ba0112sm23498175ad.1 - gsmtp
+[2026-03-18T04:49:54.732Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e6315dcsm14507445ad.80 - gsmtp
+[2026-03-18T04:49:54.981Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbb51b3sm1202714b3a.39 - gsmtp
+[2026-03-18T04:49:59.997Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e43fbfcsm12947555ad.28 - gsmtp
+[2026-03-18T04:50:00.326Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bada2bc3esm5816518a91.1 - gsmtp
+[2026-03-18T04:50:00.400Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6b567bd8sm1163932b3a.13 - gsmtp
+[2026-03-18T04:50:00.438Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e41972csm12125065ad.14 - gsmtp
+[2026-03-18T04:50:01.121Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e5f12cesm11246425ad.41 - gsmtp
+[2026-03-18T04:50:01.847Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bbad9e5d7sm389275a91.5 - gsmtp
+[2026-03-18T04:50:07.263Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bba5a2c6bsm1061289a91.10 - gsmtp
+[2026-03-18T04:50:08.424Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c741e587078sm1035238a12.32 - gsmtp
+[2026-03-18T04:50:08.653Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e43fbfcsm12953955ad.28 - gsmtp
+[2026-03-18T04:50:09.757Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e419270sm11554595ad.1 - gsmtp
+[2026-03-18T04:51:31.378Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bada5c76csm4531766a91.6 - gsmtp
+[2026-03-18T04:51:32.322Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e41974asm12453995ad.7 - gsmtp
+[2026-03-18T04:51:32.990Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bef9a32sm1160525b3a.58 - gsmtp
+[2026-03-18T04:51:34.465Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e4199easm14548605ad.5 - gsmtp
+[2026-03-18T06:14:23.968Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e431e14sm19505275ad.25 - gsmtp
+[2026-03-18T06:14:25.194Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bbad82ca4sm498729a91.4 - gsmtp
+[2026-03-18T06:15:34.747Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e43141esm14528435ad.20 - gsmtp
+[2026-03-18T06:15:35.449Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35badbcda60sm4904806a91.14 - gsmtp
+[2026-03-18T06:15:36.153Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbb985csm1355920b3a.38 - gsmtp
+[2026-03-18T06:15:36.665Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e63a971sm21434155ad.83 - gsmtp
+[2026-03-18T06:16:03.491Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6b58377dsm1331686b3a.22 - gsmtp
+[2026-03-18T06:16:04.226Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bada2bd54sm6585787a91.2 - gsmtp
+[2026-03-18T06:16:04.659Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bba086835sm583039a91.2 - gsmtp
+[2026-03-18T06:16:05.552Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbb985csm1357410b3a.38 - gsmtp
+[2026-03-18T06:16:43.019Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e41a29dsm15162275ad.13 - gsmtp
+[2026-03-18T06:16:44.144Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbe5ea9sm1358292b3a.45 - gsmtp
+[2026-03-18T06:23:50.985Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbe1869sm1612056b3a.40 - gsmtp
+[2026-03-18T06:23:52.376Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c741e0b3c43sm1409329a12.4 - gsmtp
+[2026-03-18T06:24:28.629Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e419b77sm15324255ad.17 - gsmtp
+[2026-03-18T06:24:29.971Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c741e545e39sm1294112a12.18 - gsmtp
+[2026-03-18T06:24:29.997Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e605108sm18402665ad.60 - gsmtp
+[2026-03-18T06:24:31.206Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35bb9e9b982sm663483a91.0 - gsmtp
+[2026-03-18T06:28:06.722Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c741e0dfdddsm1333797a12.14 - gsmtp
+[2026-03-18T06:28:07.745Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e629902sm13848555ad.75 - gsmtp
+[2026-03-18T06:28:07.943Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbb2f41sm1323954b3a.33 - gsmtp
+[2026-03-18T06:28:08.946Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbe200bsm1583966b3a.44 - gsmtp
+[2026-03-18T06:31:02.388Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82a6bbb51d1sm1708811b3a.28 - gsmtp
+[2026-03-18T06:31:03.697Z] ERROR: Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2b06e63b294sm18774235ad.84 - gsmtp
